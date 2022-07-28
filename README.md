@@ -6,9 +6,6 @@ I can:
 -Apply basic design theory to webpages
 -Use the command line
 -Manage versions of code with Git
--Build web apps with React and Redux
--Test React applications with Jest and Enzyme
--Deploy React applications with Netlify
 
 You can reach me at jayceelyn2000@gmail.com
 <!---
