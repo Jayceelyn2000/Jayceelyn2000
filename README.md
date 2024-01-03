@@ -1,4 +1,4 @@
-Hi, I'm Jaycee. I am a self taught front-end developer based in Louisiana.
+Hi, I'm Jace. I am a self taught front-end developer based in Tampa.
 
 I can:
 <ul>
